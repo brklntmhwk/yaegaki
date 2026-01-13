@@ -8,7 +8,7 @@ The visual boundary of Yaegaki is composed of works by these creators.
 
 | Wallpaper                          | Creator | Source                                | License |
 |------------------------------------+---------------+---------------------------------------+---------|
-| bamboo-grove.jpg                 | Reiji Kawata | [[https://unsplash.com/ja/%E5%86%99%E7%9C%9F/zsZMZxOUOJY][Unsplash Link]]                 | Unsplash License        |
-| maple-with-hidden-falls.jpg      | Reiji Kawata     | [[https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E6%A3%AE%E3%81%AE%E7%9C%9F%E3%82%93%E4%B8%AD%E3%81%AB%E3%81%82%E3%82%8B%E5%B0%8F%E3%81%95%E3%81%AA%E6%BB%9D-ho-klMPtIPI][Unsplash Link]]                         | Unsplash License        |
-| stone-stacking.jpg               | Reiji Kawata     | [[https://unsplash.com/ja/%E5%86%99%E7%9C%9F/myR1xeFAxaE][Unsplash Link]] | Unsplash License        |
-| watermill-with-autumn-leaves.jpg | Reiji Kawata  | [[https://unsplash.com/ja/%E5%86%99%E7%9C%9F/Gcf-BoRht30][Unsplash Link]]             | Unsplash License        |
+| bamboo-grove.jpg                 | Reiji Kawata | [[https://unsplash.com/photos/zsZMZxOUOJY][Unsplash Link]]                 | Unsplash License        |
+| maple-with-hidden-falls.jpg      | Reiji Kawata     | [[https://unsplash.com/photos/a-small-waterfall-in-the-middle-of-a-forest-ho-klMPtIPI][Unsplash Link]]                         | Unsplash License        |
+| stone-stacking.jpg               | Reiji Kawata     | [[https://unsplash.com/photos/myR1xeFAxaE][Unsplash Link]] | Unsplash License        |
+| watermill-with-autumn-leaves.jpg | Reiji Kawata  | [[https://unsplash.com/photos/Gcf-BoRht30][Unsplash Link]]             | Unsplash License        |
